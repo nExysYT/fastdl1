@@ -1,0 +1,2 @@
+maps/deathrun_4lifefinal_v2.res
+maps/deathrun_4lifefinal_v2.ent

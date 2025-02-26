@@ -1,0 +1,17 @@
+halflife.wad
+decals.wad
+liquids.wad
+cstrike.wad
+gfx/env/decoyup.tga
+gfx/env/decoydn.tga
+gfx/env/decoylf.tga
+gfx/env/decoyrt.tga
+gfx/env/decoyft.tga
+gfx/env/decoybk.tga
+models/machine.mdl
+models/tower.mdl
+models/pipe.mdl
+sound/ambience/facility_03.wav
+sound/bgm/downed_wakup.wav
+sound/ambience/thunder_clap3.wav
+sprites/muzzleflash2.spr

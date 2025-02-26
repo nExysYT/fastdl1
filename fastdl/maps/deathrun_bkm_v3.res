@@ -1,0 +1,2 @@
+maps/deathrun_bkm_v3.ent
+maps/deathrun_bkm_v3.res
